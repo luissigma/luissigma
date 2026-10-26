@@ -1,45 +1,77 @@
 # ¡Hola! Soy Karim 👋
 
-### Ingeniero en Sistemas | Desarrollo de Software
+### 👨‍💻 Ingeniero en Sistemas | Software Developer | AI Enthusiast
 
-Bienvenido a mi perfil de GitHub.
+¡Bienvenido a mi perfil de GitHub!
 
-Soy ingeniero en sistemas, apasionado por el desarrollo de software, la tecnología y el aprendizaje continuo.
+Soy ingeniero en sistemas, apasionado por la tecnología, el desarrollo de software y la **Inteligencia Artificial**.
 
-En este espacio comparto proyectos personales, experimentos y soluciones desarrolladas durante mi trayectoria profesional.
+Me interesa crear soluciones prácticas, explorar nuevas tecnologías y aprovechar el potencial de la IA para transformar la manera en que desarrollamos software y resolvemos problemas.
 
-## 👨‍💻 Sobre mí
+## 🚀 Sobre mí
 
-- 💻 Me interesa el diseño y desarrollo de soluciones de software.
-- 🛠️ Trabajo con herramientas y entornos de desarrollo en Windows y Linux.
-- 🌱 Continúo ampliando mis conocimientos en tecnologías y buenas prácticas de desarrollo.
-- 🔀 Utilizo Git y GitHub para gestionar el código fuente y el control de versiones.
+- 💻 Desarrollo aplicaciones web, móviles y de escritorio.
+- 🗄️ Trabajo con bases de datos relacionales y soluciones de almacenamiento de información.
+- 🤖 Tengo un especial interés en la **Inteligencia Artificial**, sus aplicaciones prácticas y su integración en sistemas de software.
+- 🛠️ Utilizo herramientas de desarrollo y control de versiones.
+- 🌱 Me gusta experimentar, aprender y mantenerme actualizado con las nuevas tecnologías.
 
 ## 🛠️ Tecnologías y herramientas
 
-**Control de versiones**
-- Git
-- GitHub
+### Lenguajes de programación
 
-**Sistemas operativos**
-- Windows
-- Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Áreas de interés**
-- Desarrollo de aplicaciones
-- Ingeniería de software
-- Buenas prácticas de desarrollo
+### Desarrollo multiplataforma
 
-## 🚀 Proyectos destacados
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Development-333333?style=for-the-badge&logo=html5&logoColor=white)
 
-Aquí encontrarás algunos de mis proyectos personales y contribuciones.
+### Bases de datos
 
-*Próximamente agregaré información sobre los proyectos más representativos.*
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-## 📫 Contacto
+### Herramientas y entornos
 
-Puedes explorar mis repositorios y seguir mi actividad aquí en GitHub.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🤖 Inteligencia Artificial
+
+La Inteligencia Artificial es una de las áreas tecnológicas que más me interesan.
+
+Me entusiasma explorar sus posibilidades en:
+
+- Integración de IA en aplicaciones de software.
+- Automatización inteligente de procesos.
+- Modelos de lenguaje (LLMs) e IA generativa.
+- Herramientas de asistencia al desarrollo.
+- Soluciones que combinen programación tradicional con capacidades de IA.
+
+## 📂 Proyectos destacados
+
+En este espacio compartiré proyectos relacionados con:
+
+- 🌐 Desarrollo de aplicaciones web.
+- 📱 Aplicaciones multiplataforma con Flutter.
+- 🖥️ Aplicaciones de escritorio.
+- 🗄️ Sistemas basados en SQL Server y MariaDB.
+- 🤖 Experimentos y proyectos relacionados con Inteligencia Artificial.
+
+## 📊 Mi actividad en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luissigma&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luissigma&layout=compact&theme=github_dark)
 
 ---
 
-*Gracias por visitar mi perfil.*
+### 💡 Mi filosofía
+
+> La tecnología evoluciona constantemente. El aprendizaje continuo y la curiosidad son fundamentales para construir mejores soluciones.
+
+Gracias por visitar mi perfil. 🚀
